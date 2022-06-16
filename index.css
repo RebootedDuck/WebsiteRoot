@@ -10,3 +10,19 @@ body {
 .longlive {
   font-style: italic;
 }
+
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+.bloodygithublogo {
+  color: black;
+  text-decoration: none;
+}
+
+.bloodygithublogo:hover {
+  color: blue;
+  text-decoration: none;
+}
