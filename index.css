@@ -46,3 +46,7 @@ footer {
   background-color: rgb(30, 34, 34);
   border-radius: 20px;
 }
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font: Tahoma;
+}
