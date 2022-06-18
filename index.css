@@ -1,6 +1,5 @@
 body {
   background-color: rgb(40, 49, 49);
-  font-family: "Lucida Console", "Courier New", monospace;
 }
 
 .badperson {
@@ -46,7 +45,7 @@ footer {
   background-color: rgb(30, 34, 34);
   border-radius: 20px;
 }
+
 body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font: Tahoma;
 }
