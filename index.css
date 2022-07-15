@@ -8,6 +8,14 @@ body {
   font-style: italic;
 }
 
+.ukraine {
+  color: #0057b8;
+  padding: 0.6em;
+  background-color: #ffd700;
+  border-radius: 10px;
+  white-space: nowrap;
+}
+
 table,
 th,
 td {
@@ -31,7 +39,7 @@ footer {
 
 header {
   background-color: rgb(30, 34, 34);
-  border-radius: 20px;
+  border-radius: 10px;
   font-weight: bold;
   padding-top: 3px;
   font-variant-caps: titling-caps;
