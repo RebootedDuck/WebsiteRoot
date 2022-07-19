@@ -1,5 +1,6 @@
 body {
-  background-color: #4c5c38;
+  background-color: rgb(40, 49, 49);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   line-height: 15px;
 }
 
@@ -22,9 +23,7 @@ td {
 }
 
 .clickables {
-  color: rgb(94, 179, 94);
-  text-decoration: none;
-  padding: 5px;
+  color: rgb(100, 86, 70);
 }
 
 .clickables:hover {
@@ -33,15 +32,13 @@ td {
 
 footer {
   padding: 3px;
-  background-color: #414938;
+  background-color: rgb(30, 34, 34);
+  color: white;
   border-radius: 10px;
-  position: absolute;
-  bottom: 0;
-  width: 100%;
 }
 
 header {
-  background-color: #414938;
+  background-color: rgb(30, 34, 34);
   border-radius: 10px;
   font-weight: bold;
   padding-top: 3px;
