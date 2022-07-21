@@ -1,6 +1,7 @@
 body {
-  background-color: #465237;
+  background-color: #244a52;
   line-height: 15px;
+  font-family: "Roboto";
 }
 
 .italiced {
@@ -22,7 +23,7 @@ td {
 }
 
 .clickables {
-  color: rgb(94, 179, 94);
+  color: #818274;
   text-decoration: none;
   padding: 5px;
 }
@@ -37,7 +38,7 @@ td {
 
 footer {
   padding: 3px;
-  background-color: #414938;
+  background-color: #22353a;
   border-radius: 10px;
   position: absolute;
   bottom: 0;
@@ -47,17 +48,18 @@ footer {
 }
 
 header {
-  background-color: #414938;
+  background-color: #22353a;
   border-radius: 10px;
   font-weight: bold;
   padding-top: 3px;
   font-variant-caps: titling-caps;
   font-size: larger;
   display: flex;
+  flex-flow: row wrap;
 }
 
 .headeri {
-  flex: auto;
+  flex-basis: auto;
 }
 
 .modal {
