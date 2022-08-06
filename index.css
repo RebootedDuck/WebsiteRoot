@@ -22,6 +22,11 @@ td {
   border: 1px solid black;
 }
 
+.email {
+  outline-style: solid;
+  border-radius: 10px;
+}
+
 .clickables {
   color: #818274;
   text-decoration: none;
